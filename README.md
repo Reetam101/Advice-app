@@ -1,3 +1,6 @@
+# Advice-App
+### This is a single web application built using Reactjs that gives you a random advice after fetching the data from Rest API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Live Demo :blue_heart: :zap:
